@@ -1,0 +1,8 @@
+You need to click the 
+colorful bubbles to pop it.
+You will have 30 seconds
+to pop as many bubbles as you can.
+After 30 seconds, the game will stop,
+you can choose to play again or exit.
+Your name will be used to identify 
+and find your previous records.

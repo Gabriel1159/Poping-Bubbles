@@ -1,0 +1,12 @@
+You need to click the 
+colorful bubbles to pop it.
+Press Space Key to pause or continue.
+You will be given three hearts.
+DO NOT click bubbles with bombs!
+Once clicked, you will lose one heart.
+If you have missed 20 bubbles
+or have lost all of your hearts,
+then you fail. After failed,
+you can choose to play again or exit.
+Your name will be used to identify 
+and find your previous records.
